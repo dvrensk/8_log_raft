@@ -5,7 +5,7 @@ simple: create a stable raft by putting four logs in a bottom layer and four
 logs in a top layer, connecting the layers with the pegs and holes found in the
 logs.  These are the eight logs:
 
-![the logs](logs.png)
+![the logs](https://raw.github.com/dvrensk/8_log_raft/master/logs.png)
 
 After playing around with the logs for a minute I decided that I would get more
 satisfaction out of solving the puzzle with code than by playing with the
